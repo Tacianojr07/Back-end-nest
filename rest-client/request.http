@@ -14,4 +14,4 @@ Content-Type: application/json
 
 ###readOneUser
 # @name ReadOneUser
-GET {{baseUrl}}/user/5555
+GET {{baseUrl}}/user/oi
